@@ -1,6 +1,8 @@
-/***
-**** Navigation ****
-***/
+/*
+	********************************
+	Navigation
+	*********************************
+*/
 .nav li{
 	display: inline-block;
 	padding-right: 5px;
@@ -8,7 +10,17 @@
 	margin-top: 20px;
 }
 
+/*
+	********************************
+	We will add CSS3 rules here!!!!
+	*********************************
+*/
 
+/*
+	********************************
+	General Body styles 
+	*********************************
+*/
 
 body {
 	font-family: 'Raleway';
