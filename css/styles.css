@@ -12,4 +12,8 @@
 
 body {
 	font-family: 'Raleway';
+	color: #fff;
+	background: url(/img/treehouse.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
 }
