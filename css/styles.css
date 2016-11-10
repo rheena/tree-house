@@ -1,0 +1,15 @@
+/***
+**** Navigation ****
+***/
+.nav li{
+	display: inline-block;
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-top: 20px;
+}
+
+
+
+body {
+	font-family: 'Raleway';
+}
